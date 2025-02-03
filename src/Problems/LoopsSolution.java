@@ -1,4 +1,4 @@
-package hackerrank;
+package Problems;
 import java.io.*;
 
 
